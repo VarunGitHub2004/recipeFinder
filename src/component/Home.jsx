@@ -16,7 +16,7 @@ const Home = () => {
         width={"100vw"}
       >
         <Heading textAlign={"center"} fontSize={"4rem"} color={"white"}>
-          {/* OUR RECIPE */}
+          OUR RECIPE
         </Heading>
         <HStack>
           <BiRightArrow className="arrow" size={50} color="skyblue" />{" "}
