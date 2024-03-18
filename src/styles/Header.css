@@ -1,0 +1,13 @@
+
+header{
+    font-size: 1.3rem;
+    z-index: 199;
+    position: sticky;
+    top: 0;
+}
+@media screen and (max-width:600px)
+{
+    header{
+        font-size: 0.9rem;
+    }
+}
